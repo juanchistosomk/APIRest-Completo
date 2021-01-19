@@ -1,0 +1,10 @@
+{
+    "nombre": "API REST by JK",
+    "configDB":{
+
+    },
+    "configToken": {
+        "SEED": "secret",
+        "expiration": "60*60"
+    }
+}

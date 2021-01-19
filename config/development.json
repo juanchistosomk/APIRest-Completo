@@ -1,0 +1,11 @@
+{
+    "nombre": "API REST by JK",
+    "configDB":{
+        "HOST": "mongodb://localhost:27017/demoAPI"
+
+    },
+    "configToken": {
+        "SEED": "secret",
+        "expiration": "24h"
+    }
+}
